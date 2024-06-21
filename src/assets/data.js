@@ -66,7 +66,7 @@ export const data = [
     {
         question: "Which Mitsubishi model was only made for the American Market and isn't considered a JDM?",
         option1: "Mitsubishi Lancer Evolution",
-        option2: "Mitsubishi 3000GT",
+        option2: "Mitsubishi GTO",
         option3: "Mitsubishi FTO",
         option4: "Mitsubishi Eclipse",
         ans: 4,
